@@ -1,3 +1,4 @@
+/** @author Lizi Gavardashvili*/
 package homework7.AbstractClass;
 
 public class PolymorphismDemo {
